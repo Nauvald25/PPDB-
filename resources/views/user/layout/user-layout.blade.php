@@ -166,8 +166,8 @@
                                 document.write(new Date().getFullYear() + ",");
                             </script>2022,
                             made with <i class="fa fa-heart" aria-hidden="true"></i> by
-                            <a href="https://darussalam2.com" class="font-semibold text-slate-700"
-                                target="_blank">Farid Anjali</a>
+                            <a href="" class="font-semibold text-slate-700"
+                                target="_blank">mnauval</a>
                             for a better web.
                         </div>
                     </div>

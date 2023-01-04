@@ -10,7 +10,7 @@
                     <h3
                         class="relative z-10 font-bold text-transparent bg-gradient-to-tl from-blue-600 to-cyan-400 bg-clip-text">
                         Halo</h3>
-                    <p class="mb-0">Masukkan Data Santri/Santriwati anda</p>
+                    <p class="mb-0">Masukkan Data Murid  anda</p>
                 </div>
                 <div class="flex-auto p-6 ">
                     <form role="form" action="{{ route($form) }}" method="POST">
