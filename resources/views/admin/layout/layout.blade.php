@@ -87,7 +87,7 @@
                             class="@if (Route::currentRouteName() == 'admin.not_register') text-white grid items-center bg-gradient-to-tl from-purple-700 to-pink-500 @endif shadow-soft-2xl mr-2 flex h-8 w-8 items-center justify-center rounded-lg bg-white bg-center stroke-0 text-center xl:p-2.5">
                             <i class="fa fa-graduation-cap" aria-hidden="true"></i>
                         </div>
-                        <span class="ml-1 duration-300 opacity-100 pointer-events-none ease-soft">Belum D/ Ulang</span>
+                        <span class="ml-1 duration-300 opacity-100 pointer-events-none ease-soft">Belum / Ulang</span>
                     </a>
                 </li>
 
